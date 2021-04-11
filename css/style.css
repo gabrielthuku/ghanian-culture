@@ -9,3 +9,10 @@ img {
 .background {
   border-image-repeat: repeat;
 }
+h2 {
+  background-color: aqua;
+}
+h2 p {
+  font-style: italic;
+  
+}
