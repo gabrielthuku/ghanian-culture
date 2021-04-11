@@ -1,0 +1,11 @@
+img {
+  height: auto;
+  width: auto;
+}
+.container {
+  padding: 0px;
+  margin: o;
+}
+.background {
+  border-image-repeat: repeat;
+}
